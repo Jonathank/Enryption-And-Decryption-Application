@@ -6,4 +6,4 @@ After entering the word and press encrypt, the format will change to right of th
 ofcorse these dont give any meaning when read.
 # By pressing Decrypt Button
 You can copy the decrypted text and paste it to left and then press Decrypt to turn it to its meaning full format
-OR type in any other word which will be consudered as encrypted word and when you press Decrypt Button, the text will be Decrypted
+OR type in any other word which will be consudered as encrypted word and when you press Decrypt Button, the text will be Decrypted.
