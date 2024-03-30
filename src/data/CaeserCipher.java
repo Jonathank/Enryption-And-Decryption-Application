@@ -14,7 +14,7 @@ public class CaeserCipher {
 		}
 	}
 	
-	//retyrns transformation of original String using given code
+	//returns transformation of original String using given code
 	private String transform(String original, char[] code) {
 		char[] msg = original.toCharArray();
 		for(int k=0;k<msg.length;k++) 
